@@ -1,0 +1,21 @@
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\5\5\bin\Debug\5.exe.config
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\5\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\5\5\bin\Debug\5.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\5\5\bin\Debug\5.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\5\5\obj\Debug\5.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\5\5\obj\Debug\5.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\الحالي\5\bin\Debug\5.exe.config
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\الحالي\5\obj\Debug\5.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\الحالي\5\obj\Debug\5.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\الحالي\5\bin\Debug\5.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\الحالي\5\bin\Debug\5.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\الحالي\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\banking system\5\bin\Debug\5.exe.config
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\banking system\5\obj\Debug\5.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\banking_system\banking system\5\obj\Debug\5.pdb
+D:\مستوى ثاني\الترم الاول\banking_system\banking system\5\bin\Debug\5.exe.config
+D:\مستوى ثاني\الترم الاول\banking_system\banking system\5\obj\Debug\5.exe
+D:\مستوى ثاني\الترم الاول\banking_system\banking system\5\obj\Debug\5.pdb
+D:\مستوى ثاني\الترم الاول\banking_system\banking system\5\bin\Debug\5.exe
+D:\مستوى ثاني\الترم الاول\banking_system\banking system\5\bin\Debug\5.pdb
+D:\مستوى ثاني\الترم الاول\banking_system\banking system\5\obj\Debug\5.csprojResolveAssemblyReference.cache
